@@ -182,27 +182,27 @@ acrobatics 15, athletics 10, investigation 10, constitution 15, history 15, natu
 
   
 
-Myrt is who we are seeing in Waterdeep
+[[Mirt]] is who we are seeing in [[Waterdeep]]
 
   
 
-Scaramanga gives Vivian a 12 inch block of cheese with scattered grey/black veins. This is stonework cheese. One of Myrts favorites.
+[[Scaramanga]] gives Vivian a 12 inch block of cheese with scattered grey/black veins. This is stonework cheese. One of [[Mirt]]'s favorites.
 
   
 
-About 4 days ago master Mirt left in street clothes and said he would be back in a few hours. He has not returned. No instructions were left and his whereabouts are unknown. Found a note in his hand. Excellence passes the paper “Kolat Towers”
+About 4 days ago master [[Mirt]] left in street clothes and said he would be back in a few hours. He has not returned. No instructions were left and his whereabouts are unknown. Found a note in his hand. Excellence passes the paper [[Kolat Towers]]
 
   
 
-Kolat Tower. Building started out as an old stone manor and dirty carriages. Two wizard bros got it and stitched it together with wall of stone and stone shape. Guilds of waterdeep unsuccessfully didn’t break it down. Fate of the wizard brothers I know not. Alcedor and Dulark.
+[[Kolat Tower]]. Building started out as an old stone manor and dirty carriages. Two wizard bros got it and stitched it together with wall of stone and stone shape. Guilds of [[Waterdeep]] unsuccessfully didn’t break it down. Fate of the wizard brothers I know not. Alcedor and Dulark.
 
   
 
-Tracked Vivian as far as Candlekeep.
+Tracked Vivian as far as [[Candlekeep]].
 
   
 
-Vivian borrowing the hat of disguise.
+[[Vivian]] borrowing the hat of disguise.
 
   
 
@@ -238,7 +238,7 @@ Cloaked figure arrives and speaks. A satyr mover up to Varis and greets them.
 
   
 
-Eddea. Edd-ah
+Edda. Edd-ah
 
   
 
@@ -254,7 +254,7 @@ Notice a fog around Kolat tower. Water is striking an invisible dome around the 
 
   
 
-15 foot north to south room with a fireplace and burning fire. Rooms are about 15 foot high and doors are 7 foot. Moving past the fireplace there is a table with 3 individuals. Playing 3 dragon anty. Coins on the tabletop. ON the space of the walls there are moth eaten banners. Arcance sigils. Know generally there are 8 schools of magic. Sigils represent the different schools.
+15 foot north to south room with a fireplace and burning fire. Rooms are about 15 foot high and doors are 7 foot. Moving past the fireplace there is a table with 3 individuals. Playing 3 dragon anty. Coins on the tabletop. ON the space of the walls there are moth eaten banners. Arcane sigils. Know generally there are 8 schools of magic. Sigils represent the different schools.
 
   
 
@@ -262,7 +262,7 @@ Doorway near there table to the north that is closed.
 
   
 
-3 people are in some form of black armor. Woman and two male accomplices. Black gear and garments are probably part of the zhentarim.
+3 people are in some form of black armor. Woman and two male accomplices. Black gear and garments are probably part of the [[Zhentarim]].
 
   
 
@@ -270,11 +270,11 @@ You should not be here.
 
   
 
-Manafret Cherryport. Manchun.
+Manafret Cherryport. [[Manshoon]].
 
   
 
-Brie knows someone named Manchum founded the black network years ago. Varis and Vivian know that Manchum supposedly died 1470. We are in the 1490s. It is said there are rumors that Manchum created copies of himself. One copy is possibly a vampire. Manchum is a powerful wizard who killed el minster.
+Brie knows someone named [[Manshoon]] founded the black network years ago. [[Varis]] and [[Vivian]] know that [[Manshoon]] supposedly died 1470. We are in the 1490s. It is said there are rumors that [[Manshoon]] created copies of himself. One copy is possibly a vampire. [[Manshoon]] is a powerful wizard who killed el minster.
 
   
 
