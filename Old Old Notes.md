@@ -110,7 +110,7 @@ Gunderson. Shipmaster hall. 5-6 mile
 
   
 
-Selky Stormraiser (she is the captain of crew halfling), locate her at the blushy mermaid. Ship was wrecked by pirates. Looking for a new vessel.
+[[Selky Stormraiser]] (she is the captain of crew halfling), locate her at the blushy mermaid. Ship was wrecked by pirates. Looking for a new vessel.
 
   
 
@@ -136,7 +136,7 @@ mr Molino of the 3rd bank. Deposit 15 platinum
 
   
 
-Chappo, boller hat. Know from before. Mentions the debt.
+[[Chappo]], boller hat. Know from before. Mentions the debt.
 
   
 
@@ -182,7 +182,7 @@ find an icon that is a hat and appears to be an eye patch. Gourd and spices for 
 
   
 
-Drow said something about finding and destroying it. Whose information better be right or Jarlaxle will make him pay
+Drow said something about finding and destroying it. Whose information better be right or [[Jarlaxle]] will make him pay
 
   
 
@@ -282,7 +282,7 @@ Sumerhawk family. Dollop and barley. Midge, Ninny and Tayla are the children.
 
   
 
-In ardeep.
+In Ardeep.
 
   
 
@@ -326,7 +326,7 @@ Name Bellack was mentioned.
 
   
 
-Landy was headed to some tomb.
+[[Landy]] was headed to some tomb.
 
   
 
@@ -368,7 +368,7 @@ Squirmtongue badge – Re-roll a single saving throw that you fail, but you imme
 
   
 
-Jack Elmon greets at Waterdeep. Hands over a parchment. Someone dropped this and waited to claim it, but no one has. Map of some sort. Jack Elmon giving.
+[[Jack Elmon]] greets at [[Waterdeep]]. Hands over a parchment. Someone dropped this and waited to claim it, but no one has. Map of some sort. [[Jack Elmon]] giving.
 
   
 
@@ -420,7 +420,7 @@ Going to the church of Tyr.
 
   
 
-Run in Marigold and another halfling (Falco Russelback).
+Run in [[Marigold Phaulkon]] and another halfling ([[Duane]] Russelback).
 
   
 
@@ -434,7 +434,7 @@ Dwarven woman Solemn Sister Gilga
 
   
 
-Mausoleum with the name Gost written on it
+Mausoleum with the name [[Gost]] written on it
 
   
 
@@ -442,7 +442,7 @@ scrutiny reveals this statue is newly placed.
 
   
 
-In mausoleum there are 4 largish alcoves. Grave markers for members of the Gost family.
+In mausoleum there are 4 largish alcoves. Grave markers for members of the [[Gost]] family.
 
   
 
@@ -468,7 +468,7 @@ South male warrior
 
   
 
-Brie remembers he has cinnabar goggles for darkvision of 120 ft.
+Brie remembers he has [[cinnabar goggles]] for darkvision of 120 ft.
 
   
 
@@ -494,7 +494,7 @@ South corner is single sarcophagus
 
   
 
-Stop in at Jack Elrond.
+Stop in at [[Jack Elmon]].
 
   
 
@@ -526,7 +526,7 @@ Second pocket. Scarp of parchment with a map drawn on it. Small scrap of paper w
 
   
 
-Drow has a pistol and a short sword. There are 2 of the false maps tucked into a concealed pocket. Letter addressed to someone named Jarlaxle “The adventurers who interferred at ardeep will soon be dead by the hands of the barron. ” Shandre Silrand.
+Drow has a pistol and a short sword. There are 2 of the false maps tucked into a concealed pocket. Letter addressed to someone named [[Jarlaxle]] “The adventurers who interfered at Ardeep will soon be dead by the hands of the baron. ” Shandre Silrand.
 
   
 
@@ -538,11 +538,11 @@ Hat is a hat of disguise. While wearing this hat . It’s a knit cap that is unr
 
   
 
-Take carriage ride with Mert. Near dock wards. See grand estate. Activity along the streets is heightened for the wrestling matches.
+Take carriage ride with [[Mirt]]. Near dock wards. See grand estate. Activity along the streets is heightened for the wrestling matches.
 
   
 
-Birch glances up towards the walking statue. There seems to be some heightened activity in the griffin academies.
+[[Birch]] glances up towards the walking statue. There seems to be some heightened activity in the griffin academies.
 
   
 
@@ -558,13 +558,13 @@ As walking down the tiled corridors there is a floating apparition that floats a
 
   
 
-Terrace on Mert’s house. House is on the bay. Fairly sunny looking out to ships sailing about.
+Terrace on Mirt’s house. House is on the bay. Fairly sunny looking out to ships sailing about.
 
   
 
-Mert is talking about looking at the library to select a book to bring to candlekeep.
+[[Mirt]] is talking about looking at the library to select a book to bring to Candlekeep.
 
-Vivian is seen by Rauve coming in. Moved to library
+[[Vivian]] is seen by [[Rauve]] coming in. Moved to library
 
 One of the statuary to the library seems out of place. Rough shape with hawk like wings. Vaguely gargoyle shape.
 
@@ -574,11 +574,11 @@ Copper gauntlet in a case being held by pins. Fingers drooped down. Black stone 
 
   
 
-“Let me introduce to Vivian Belabranta. One of my Godschildren.” She is under scrutiny under noble family, as a 5th child she doesn’t have a role. She has fled and come for assistance.
+“Let me introduce to [[Vivian]] [[Belabranta]]. One of my Godschildren.” She is under scrutiny under noble family, as a 5th child she doesn’t have a role. She has fled and come for assistance.
 
   
 
-Vivian has an older disowned sister involved in unfortunate mess inland with a cult. Sister has reabilitated as a follower Tyre. Sister Sabra. Brother Amod is lord of house Belabranta and cavalery leader. Bucephalus is the statue gargoyle golem for Vivian.
+[[Vivian]] has an older disowned sister involved in unfortunate mess inland with a cult. Sister has reabilitated as a follower Tyre. Sister Sabra. Brother [[Amod]] is lord of house [[Belabranta]] and cavalery leader. Bucephalus is the statue gargoyle golem for Vivian.
 
   
 
@@ -604,11 +604,11 @@ Risem , bleeding out.
 
   
 
-Drow looking for a necklace that goes by sorrows end, world changer. Risem, who knows Varis, provided info where the necklace was it (selvir river). They beat Risem to a pulp.
+Drow looking for a necklace that goes by sorrows end, world changer. Risem, who knows [[Varis]], provided info where the necklace was it (selvir river). They beat Risem to a pulp.
 
   
 
-Group that showed up and interceded, took some items. Repository in Candlekeep: info about this necklace/pendant.
+Group that showed up and interceded, took some items. Repository in [[Candlekeep]]: info about this necklace/pendant.
 
   
 
@@ -624,11 +624,11 @@ find in the rooms of the bar of the Ships prow find the following: A gold signet
 
   
 
-Selky – Don’t need to worry about compensation. Supplies that were brought on board. Food and water 4 weeks on journey. Flying under flag of water deep and switch from baulder’s gate. To further disquise efforts. Bringing supplies to baulder’s gate. Lumbers, leather goods and wines. Coming from Dagger Fort and going to Baulder’s Gate. 400 gold. Bring back as far as Dagger Fort. Do not come back after.
+[[Selky Stormraiser]] – Don’t need to worry about compensation. Supplies that were brought on board. Food and water 4 weeks on journey. Flying under flag of water deep and switch from baulder’s gate. To further disquise efforts. Bringing supplies to baulder’s gate. Lumbers, leather goods and wines. Coming from Dagger Fort and going to Baulder’s Gate. 400 gold. Bring back as far as Dagger Fort. Do not come back after.
 
   
 
-Allowed to be in Candlekeep for a 10 day.
+Allowed to be in [[Candlekeep]] for a 10 day.
 
   
 
@@ -666,17 +666,17 @@ Slim (Jesamine) from Cholt. Parents are merchants. Diligently returns to see fam
 
   
 
-5 days out from Waterdeep. Well passed Dagger Ford. Early morning. Pavel is taking a swing right at the waterline. Scrapping off barnacles at the water line.
+5 days out from [[Waterdeep]]. Well passed Dagger Ford. Early morning. [[Pavel]] is taking a swing right at the waterline. Scrapping off barnacles at the water line.
 
 Dragon turtle job. Asked for friends of fisherment of the islands. Here is payment:
 
   
 
-My spawn has been taken by a pirate as hostage and forced the father to great humiliation. They have built a town on his back. Get the spawn and return to me. The spawn is on the shell captain sady greyhate.
+My spawn has been taken by a pirate as hostage and forced the father to great humiliation. They have built a town on his back. Get the spawn and return to me. The spawn is on the shell captain [[Sady Greyhate]].
 
   
 
-Fathomar is the female. Abyssewrath is the father.
+Fathomar is the female. [[Abyssewrath]] is the father.
 
   
 
@@ -746,7 +746,7 @@ Tiny Hut
 
   
 
-Kelem Strongbranch is the gate warden of Candlekeep.
+Kelem Strongbranch is the gate warden of [[Candlekeep]].
 
   
 

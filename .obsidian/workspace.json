@@ -8,18 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "457d4c3558a1fe15",
+            "id": "60895bec12bc6ad3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20230820174852.jpg"
+              }
+            }
+          },
+          {
+            "id": "0b75dbaac01800cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7-23 Notes.md",
+                "file": "Duane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96b9c01791cc9a73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8-20 Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7-23 Notes.md",
+                "file": "8-20 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7-23 Notes.md",
+                "file": "8-20 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7-23 Notes.md"
+                "file": "8-20 Notes.md"
               }
             }
           }
@@ -146,24 +169,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "457d4c3558a1fe15",
+  "active": "96b9c01791cc9a73",
   "lastOpenFiles": [
-    "Brie.md",
+    "Marigold Phaulkon.md",
+    "8-20 Notes.md",
+    "Brie Cabernet.md",
     "Brie's Backstory.md",
-    "7-23 Notes.md",
-    "Myrtle.md",
     "Old Old Notes.md",
-    "Old Notes.md",
-    "Zhentarim.md",
-    "Edda.md",
-    "Alith.md",
+    "Abyssewrath.md",
+    "Selky Stormraiser.md",
+    "Sady Greyhate.md",
+    "Wilbin.md",
+    "Clover.md",
+    "Pavel.md",
+    "Amod.md",
+    "Vivian.md",
+    "Russelback.md",
     "Belabranta.md",
-    "Mirt.md",
-    "Wilbins.md",
-    "Excelence.md",
-    "Waterdeep.md",
+    "Pasted image 20230820174852.jpg",
+    "cinnabar goggles.md",
+    "Gost.md",
+    "Duane.md",
+    "1.md",
+    "Jack Elmon.md",
+    "Landy.md",
+    "Phaulkon.md",
+    "Chappo.md",
     "Lanngolyn.md",
     "Durinbold.md",
-    "Russelbacks.md"
+    "Coughing Maddox.md"
   ]
 }

@@ -1,0 +1,1 @@
+Mausoleum where we encountered an infamous vampire of [[Waterdeep]]
