@@ -420,7 +420,7 @@ Going to the church of Tyr.
 
   
 
-Run in [[Marigold Phaulkon]] and another halfling ([[Duane]] Russelback).
+Run in [[Marigold]] and another halfling ([[Duane]] Russelback).
 
   
 
@@ -528,11 +528,6 @@ Second pocket. Scarp of parchment with a map drawn on it. Small scrap of paper w
 
 Drow has a pistol and a short sword. There are 2 of the false maps tucked into a concealed pocket. Letter addressed to someone named [[Jarlaxle]] “The adventurers who interfered at Ardeep will soon be dead by the hands of the baron. ” Shandre Silrand.
 
-  
-
-  
-
-  
 
 Hat is a hat of disguise. While wearing this hat . It’s a knit cap that is unremarkable. While wearing using action to disguise.
 

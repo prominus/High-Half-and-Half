@@ -1,0 +1,2 @@
+from https://forgottenrealms.fandom.com/wiki/Cassalanter:
+The **Cassalanter** [noble house](https://forgottenrealms.fandom.com/wiki/Nobility_of_Waterdeep "Nobility of Waterdeep") of [Waterdeep](https://forgottenrealms.fandom.com/wiki/Waterdeep "Waterdeep") was among one of the richest families within the city,(https://forgottenrealms.fandom.com/wiki/Cassalanter#cite_note-TW-23-5) having made their fortune in banking, money-lending and rumor-mongering for the highest payer.

@@ -1,0 +1,1 @@
+A male tiefling hat maker.  Wears all black.

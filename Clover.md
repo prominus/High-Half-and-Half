@@ -1,3 +1,3 @@
-Younger brother to [[Marigold Phaulkon]] and [[Brie Cabernet]].
+Younger brother to [[Marigold]] and [[Brie]].
 
 Currently with parents.

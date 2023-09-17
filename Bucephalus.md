@@ -1,0 +1,1 @@
+The gargoyle looking golem who belongs to [[Vivian]]

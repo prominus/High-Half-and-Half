@@ -1,4 +1,4 @@
-Sister to [[Brie Cabernet]].
+Sister to [[Brie]].
 
 Maiden name [[Wilbin]].  Married [[Duane]] of the [[Russelback]].  
 

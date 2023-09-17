@@ -1,3 +1,3 @@
-Older sister is [[Marigold Phaulkon]]. Now married to the [[Phaulkon]].
+Older sister is [[Marigold]]. Now married to the [[Phaulkon]].
 
 Younger brother is [[Clover]].

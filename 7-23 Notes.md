@@ -21,7 +21,7 @@ Melvin Wake. Groundskeeper. The city of the dead. Go see Melvin for Mirt. Someth
 
 Fey folk in good shape or condition. Down in Dock Ward.
 
-Knock on the door. Excellence receives an invitation to the [[Phaulkon]]. From Lord [[Duane]] and Lady [[Marigold Phaulkon]]. Notice of reinstatement of the Falcon name.
+Knock on the door. Excellence receives an invitation to the [[Phaulkon]]. From Lord [[Duane]] and Lady [[Marigold]]. Notice of reinstatement of the Falcon name.
 
 From Melvin. There has been peculiarly muddy prints. Distinct smells of rot. Go investigate.
 
@@ -39,7 +39,7 @@ Brie also sees on the poor quality of clothing, all of the children were poor. D
 
 	or Founder's Day cele
 
-[[Brie Cabernet]], [[Varis]], and [[Vivian]] know they are in the summer month. Flame rule is coming upon us.  The first day is Founder's Day celebration. Celebration of [[Waterdeep]]. This celebration is a week away.
+[[Brie]], [[Varis]], and [[Vivian]] know they are in the summer month. Flame rule is coming upon us.  The first day is Founder's Day celebration. Celebration of [[Waterdeep]]. This celebration is a week away.
 
 [[Mirt]] assembled wagons for a starter Tavern. Going to the North Ward for the new home. 
 

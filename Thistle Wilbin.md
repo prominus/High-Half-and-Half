@@ -1,1 +1,1 @@
-Real name of [[Brie Cabernet]]
+Real name of [[Brie]]
