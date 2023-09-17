@@ -4,7 +4,7 @@ Uses two tokens on dunking booth.
 
 [[Jarlaxle]] is attending. 
 
-Meet [[Esvele Rosznar]] near the mirror maze. Wearing crenulated high collar dress. Purple eye shadowing. Very vamped up. Extremely uncomfortable.  Interersted in speaking as she has a dilema.
+Meet [[Esvele Rosznar]] near the mirror maze. Wearing crenulated high collar dress. Purple eye shadowing. Very vamped up. Extremely uncomfortable.  Interested in speaking as she has a dilemma.
 
 [[Kressando ]]went to the skull port that exists to contact the [[Xanathar]]. I'm worried it's a resumption of the slave trade.  Asking to go to Undermountain.  
 
@@ -12,7 +12,7 @@ Meet few days at [[Yawning Portal]].
 
 [[Brie]] steals [[Varis]] ribbon.
 
-[[Edda]] hears in some part of the garden. [[Azalea]] [[Rosznar]], we tried to join the [[Cassalanter]], but we were rebuffed.  The nobles are not as they were.  We need to restore.  That man with Blastwind should not be here. That fey filth should not be here. I want them to go away.
+[[Edda]] hears in some part of the garden. [[Azalea]] [[Rosznar]], we tried to join the [[Cassalanter]], but we were rebuffed.  The nobles are not as they were.  We need to restore.  That man with [[Barnibus Blastwind]] should not be here. That fey filth should not be here. I want them to go away.
 
 Thisia gontle talking with [[Yalah Gralhund]].  Thisia, "Well have more of the iron ore coming up next week.  Some miners thinking Founders day is a week.  More ore is more weapons against the goblins."  So [[Phaulkon]] are likely in debt to the wrong people.
 
@@ -22,18 +22,18 @@ Yalah,  They must be better than what they.  How much do they owe [[Phaulkon]]
 
 [[Jarlaxle]] connection to Lukson.
 
-[[Mattis]][[Durinbold]] and [[Lennete]].  Mattis, Feats of strength are not my fortee.  Pay attention to Torres sr. People are noticing your occupation.  
+[[Mattis]] [[Durinbold]] and [[Lennete]].  Mattis, Feats of strength are not my forte.  Pay attention to Torres sr. People are noticing your occupation.  
 
 Clap on the back.  [[Duane]] before me.
 
 "Hello Thi-oh sorry. I mean Brie Cabernet."  I should be nicer for Marigold's sake.
 Jasmine yells "Duane NOO."  
 
-During [[Duane]]]'s rant Brie stole the black and silver braid ribbon
+During [[Duane]]'s rant Brie stole the black and silver braid ribbon
 
 [[Marigold]] comes up to Brie.  "I'm disappointed."
 
-One men is Durnan. Owner of the [[Yawning Portal]]. Friend of [[Mirt]].  Warrior of some sort.  Talking on politics. Agreeing Mirt can't be one.
+One men is [[Durnan]]. Owner of the [[Yawning Portal]]. Friend of [[Mirt]].  Warrior of some sort.  Talking on politics. Agreeing Mirt can't be one.
 
 Walls of the maze 8 feet tall.  Flickering torches.  Exterior reflects many such torches.   Appearance changes on movement.  Along the way found a slightly damp jacket that [[Duane]] possessed.  
 
@@ -63,7 +63,7 @@ Amongst [[Duane]]'s belongings.  Not in possession of his black and silver braid
 
 Piece of damp parchment.  Mirror maze 9 o'clock - J 
 
-Jess? Jarlaxle? Jasmine?
+Jess? [[Jarlaxle]]? [[Jasmine]]?
 
 Further back the way was the jacket with the sodden shirt. Faint imprint of lipstick.  Shade is medium to dark red.  
 
