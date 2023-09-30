@@ -24,7 +24,7 @@ Tiefling with black. [[Rebeleigh]]. Red Burgundy stove hat acquired.
 
 Brie gets an aquamarine suit. 
 
-Bringing 2 daggers, potion, ring of free action, and spy fly
+Bringing 2 daggers, potion of healing, ring of free action, and spy fly
 
 Near snake alley and karrigans court.  Within view of the  kolat towers
 
