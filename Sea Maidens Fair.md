@@ -1,0 +1,1 @@
+A travelling carnival of many entertainers.  they travel by ship up and down the Sword Coast performing shows and parades.

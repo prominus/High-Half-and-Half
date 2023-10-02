@@ -24,29 +24,29 @@ Jess was formally the ladies dresser and maid.
 
 Durnan and Meloon Wardragon.  
 
-We had not participating in the games. Did not like the goblins propraganda.  Talking about fey. Speculating the mass Lords.  We saw an angry Duane Phaulcon shirtless and wet heading for the maze.  Duane brushed by.  A well dress halfling. Smiled and said no more.  Then we saw the young servant woman with a towel of some sort.  
+We had not participating in the games. Did not like the goblins propaganda.  Talking about fey. Speculating the masked Lords.  We saw an angry [[Duane]] [[Phaulkon]] shirtless and wet heading for the maze.  Duane brushed by.  A well dress halfling. Smiled and said no more.  Then we saw the young servant woman with a towel of some sort.  
 
 Did not see a hat on the halfling.  
 
 Dell - Saw the fellaw.  Here before all of this commotion.  I saw his lordship go. Prior to that saw Durnan and Meloon.  His lordship.  Cute servant girl.  That's it before the lady came through.  There was one other fellow. A dwarfish fellow. Household servant. 
 
-Jezella and dunk booth.  Strong woman for sea maidens fair.  Saw Duncan grab a thin glass to an older lord. Points to Torres Sr.
+[[Jasella]] and dunk booth.  Strong woman for sea maidens fair.  Saw Duncan grab a thin glass to an older lord. Points to Torres Sr.
 
-Jasmine wanted to talk to Duane about Rupert.  HE was experiencing a great deal of pressure. Gambling. Bailout for Rupert.  
+[[Jasmine]] wanted to talk to [[Duane]] about [[Rupert]].  HE was experiencing a great deal of pressure. Gambling. Bailout for Rupert.  
 
-Rupert debts to many gambling houses.  He was a regular attendant at the purple palace.  House of some ill repute.  Some say it is connected to the Xanathar guild.  
+[[Rupert]] debts to many gambling houses.  He was a regular attendant at the [[Purple Palace]].  House of some ill repute.  Some say it is connected to the Xanathar guild.  
 
-On the second floor the batrooms. Torres jr in a ball.  "Don't go in there. I didn't mean to,but I did it.  I didn't mean to kill my own man.  I'm .... There is something in the Jon."
+On the second floor the bathrooms. Torres Jr. in a ball.  "Don't go in there. I didn't mean to, but I did it.  I didn't mean to kill my own man.  I'm.... There is something in the Jon."
 
 Opening the door there is a blue grey featureless body is in the toilet.  The body is wearing clothing that appears as servant clothing.  There is a strange luster to the clothing.  
 
 Throat of creature is slit. Individual appears to be 5 feet in height.  Luster that seems a bit unusual. This appears to be a doppelganger.  Change physicality.
 
-Remove the garment.  As feel the material.  The appearance of the garb is not the actual garb being worn. Leather flexible.  On the inside of the piece of garment a label that says 'A word cateure'. Brand on upper arm. Skull with tentacles.
+Remove the garment.  As feel the material.  The appearance of the garb is not the actual garb being worn. Leather flexible.  On the inside of the piece of garment a label that says 'A word couture'. Brand on upper arm. Skull with tentacles.
 
 Skull and tentacles are a group of the unseen.  Known to replace important people with power. 
 
-Piece of parchment.  Eliminate [[Phaulkon]] for lack of payments of roof work at [[Phaulkon]] manor.  Signed E Dumblast.  
+Piece of parchment.  Eliminate [[Phaulkon]] for lack of payments of roof work at [[Phaulkon]] manor.  Signed E. Dumblast the fourth.  
 
 Along the route home from the castle ward see signs of plant growth.  In some spaces see efforts to remove vines and growth to accommodate banners of crescent moons.  That represents the flag or banner.  
 
@@ -56,7 +56,7 @@ Varis departs for home.
 
 Along the way home Birch sees a puddle along the way.  There are tremors within the puddle.  Birch notices a yellow and orange discoloration influence of color.  Sort of ebbs and flows.  
 
-Approach a run down tavern outside of North Ward.  This place looks a little rough. Not as bad as trollskull manor.  Male fey with beard, unkempt mane and cloven feet.  This being is a korred.  The korred opens the door to the tavern.  
+Approach a run down tavern outside of North Ward.  This place looks a little rough. Not as bad as [[Trollskull Manor]] trollskull manor.  Male fey with beard, unkempt mane and cloven feet.  This being is a korred.  The korred opens the door to the tavern.  
 
 "Well here they are.  I told you Gris they would be along.  I toldyou they were going to be in the neighborhood.  [[Emmec Frewn]].  This is Frewn's brews"
 
