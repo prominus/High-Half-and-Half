@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-1 Notes.md",
+                "file": "10-22 Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e657829a13c96f9b",
+            "id": "b79a6e80998dfc84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coughing Maddox.md",
+                "file": "10-22 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-1 Notes.md",
+                "file": "10-22 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-1 Notes.md",
+                "file": "10-22 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-1 Notes.md"
+                "file": "10-22 Notes.md"
               }
             }
           },
@@ -183,13 +183,14 @@
   },
   "active": "94221207b3a30498",
   "lastOpenFiles": [
-    "Old Old Notes.md",
     "10-1 Notes.md",
-    "Letter to Marigold.md",
-    "9-17 Notes.md",
-    "9-20 Notes.md",
+    "10-22 Notes.md",
     "8-20 Notes.md",
     "9-03 Notes.md",
+    "9-17 Notes.md",
+    "Old Old Notes.md",
+    "Letter to Marigold.md",
+    "9-20 Notes.md",
     "7-23 Notes.md",
     "Trollskull Manor.md",
     "Jasella.md",
@@ -208,7 +209,6 @@
     "Abyssewrath.md",
     "Durnan.md",
     "Xanathar.md",
-    "Kressando.md",
     "Pasted image 20230820174852.jpg"
   ]
 }
