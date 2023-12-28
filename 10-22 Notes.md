@@ -12,10 +12,10 @@ Building in ruins. Outer wall is deteriorated.  Was a fine keep many years ago. 
 
 Blue dragon born = necklace, copper arm band, game board, damaged armor
 green woman = elven bread, crude dagger depiction of goblinoid figure, clockwork knight riding a horse
-pink = bandoleer (8 silver flasks)
+pink = bandoleer (8 silver flasks) (3 empty, 3 alcohol, 2 potions of healing)
 red = thieves tools, necklace with actual griffon feather. quiver of bolts.
 
-34 gp 45 sp 12 cp
+34 gp 45 sp 12 cp to Vivian
 
 
 

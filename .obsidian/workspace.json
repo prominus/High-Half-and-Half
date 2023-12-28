@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60895bec12bc6ad3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9-17 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "94221207b3a30498",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-22 Notes.md",
+                "file": "12-03 Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b79a6e80998dfc84",
+            "id": "1eca6f791adee4e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-22 Notes.md",
+                "file": "12-17 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-22 Notes.md",
+                "file": "12-17 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-22 Notes.md",
+                "file": "12-17 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-22 Notes.md"
+                "file": "12-17 Notes.md"
               }
             }
           },
@@ -181,10 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94221207b3a30498",
+  "active": "1eca6f791adee4e6",
   "lastOpenFiles": [
-    "10-1 Notes.md",
+    "12-03 Notes.md",
+    "12-17 Notes.md",
+    "Landy.md",
     "10-22 Notes.md",
+    "The Six Hands.md",
+    "10-1 Notes.md",
     "8-20 Notes.md",
     "9-03 Notes.md",
     "9-17 Notes.md",
@@ -198,7 +190,6 @@
     "Rupert.md",
     "Bellicose.md",
     "Coughing Maddox.md",
-    "The Six Hands.md",
     "Slate.md",
     "Angel.md",
     "Greedy Ryley.md",
@@ -206,9 +197,6 @@
     "Two-Face Brent.md",
     "Chappo.md",
     "Barnibus Blastwind.md",
-    "Abyssewrath.md",
-    "Durnan.md",
-    "Xanathar.md",
     "Pasted image 20230820174852.jpg"
   ]
 }
