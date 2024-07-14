@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94221207b3a30498",
+            "id": "e2f8577e7dd1b7a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12-03 Notes.md",
+                "file": "2024-05-19 Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1eca6f791adee4e6",
+            "id": "1fa61b84f3adfab4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12-17 Notes.md",
+                "file": "2024-05-19 Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3b3d6e9d36f49050",
+            "id": "d86680dd6d70de5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-14 Notes.md",
+                "file": "2024-06-30 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-14 Notes.md",
+                "file": "2024-06-30 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-14 Notes.md",
+                "file": "2024-06-30 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-14 Notes.md"
+                "file": "2024-06-30 Notes.md"
               }
             }
           },
@@ -183,34 +183,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b3d6e9d36f49050",
+  "active": "d86680dd6d70de5c",
   "lastOpenFiles": [
-    "10-22 Notes.md",
-    "10-1 Notes.md",
-    "9-20 Notes.md",
-    "9-17 Notes.md",
-    "1-14 Notes.md",
-    "12-17 Notes.md",
-    "12-03 Notes.md",
+    "2024-05-19 Notes.md",
+    "2024-06-30 Notes.md",
+    "2024-01-28 Notes.md",
+    "2024-02-25 Notes.md",
+    "2024-03-24 Notes.md",
+    "2024-04-07 Notes.md",
+    "2024-06-02 Notes.md",
+    "Pasted image 20230820174852.jpg",
+    "2024-01-14 Notes.md",
+    "2023-12-17 Notes.md",
+    "2023-12-03 Notes.md",
+    "2023-10-22 Notes.md",
+    "2023-10-1 Notes.md",
+    "Ammalia.md",
+    "Alith.md",
+    "Belabranta.md",
+    "2023-07-23 Notes.md",
+    "2023-08-20 Notes.md",
+    "2023-09-03 Notes.md",
+    "2023-09-17 Notes.md",
+    "2023-09-20 Notes.md",
     "Landy.md",
     "The Six Hands.md",
-    "8-20 Notes.md",
-    "9-03 Notes.md",
     "Old Old Notes.md",
     "Letter to Marigold.md",
-    "7-23 Notes.md",
     "Trollskull Manor.md",
-    "Jasella.md",
-    "Sea Maidens Fair.md",
-    "Rupert.md",
-    "Bellicose.md",
-    "Coughing Maddox.md",
-    "Slate.md",
-    "Angel.md",
-    "Greedy Ryley.md",
-    "Razor Dix.md",
-    "Two-Face Brent.md",
-    "Chappo.md",
-    "Pasted image 20230820174852.jpg"
+    "Jasella.md"
   ]
 }
