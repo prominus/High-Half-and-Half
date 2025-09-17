@@ -13,8 +13,10 @@
 
 ## Appearance
 
-Basically take this model https://www.deviantart.com/leonartss/art/emerald-dragonborn-910171946 and replace the Paladin/Knight garb with unassuming skins, leathers, and coats of the Icewind Dale.
+Basically, take this character model, and replace the Paladin/Knight garb with unassuming skins, leathers, and coats of the Icewind Dale. Also, loose the weird overly long mustache tendril things.
 
+![[Pasted image 20250916221018.png]]
+https://www.deviantart.com/leonartss/art/emerald-dragonborn-910171946
 ## About the Realm
 
 In the world of Faerun, the dragons of lore are few and far between.  Most lost to the [Rage of Dragons](https://forgottenrealms.fandom.com/wiki/Rage_of_Dragons) eons ago.  The deities of the [Draconic Pantheon](https://forgottenrealms.fandom.com/wiki/Draconic_pantheon) mostly abandoned and forgotten.  
